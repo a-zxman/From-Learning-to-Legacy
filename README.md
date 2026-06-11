@@ -28,6 +28,31 @@ Years from now, I hope to look back at these words and see how far I've come.
 
 ---
 
+## Current Status (June 2026)
+
+### Education
+
+- Diploma in Computer Science & Technology (CST)
+- Diploma in IT Infrastructure & Cyber Security
+
+### Current Learning Focus
+
+- CCNA
+- MTCNA
+- Networking
+- IT Infrastructure
+- Cyber Security Fundamentals
+
+### Personal Challenge
+
+Due to migraine, I sometimes face challenges maintaining long study and practice sessions. However, I continue to move forward through consistency, discipline, and focused learning sessions.
+
+### Current Mission
+
+To build a strong foundation in Networking and IT Infrastructure, then advance into Cyber Security, Ethical Hacking, Professional Cybersecurity, and SOC operations.
+
+---
+
 ## Current Focus
 
 - Networking
@@ -62,3 +87,23 @@ Never Give Up.
 ### June 2026
 
 The journey begins.
+
+---
+
+## Future Milestones
+
+### 2026
+- [ ] Complete both diploma programs
+- [ ] Strengthen Networking skills
+- [ ] Advance Cyber Security knowledge
+- [ ] Begin Ethical Hacking studies
+
+### 2027
+- [ ] Start BSc
+- [ ] Earn new certifications
+- [ ] Build larger security projects
+
+### 2028+
+- [ ] Continue professional growth
+- [ ] Contribute to the Cyber Security community
+- [ ] Build a legacy worth remembering
